@@ -1,10 +1,10 @@
 # Latest Gists
 
 <!-- GIST-LIST:START -->
+- [OpenMx.wrap&lpar;&rpar;: Using R-base pipes to create OpenMx models](https://gist.github.com/lf-araujo/de58c9a969d7b1db66ff8453afc4b7fc)
 - [Datasets for testing mr-doc2.](https://gist.github.com/lf-araujo/1bea4927813e09d9ec0ce0568935384e)
 - [R IDE for R statistics, data analysis and a bit of Nim](https://gist.github.com/lf-araujo/9b3e239757d6f48a564d75818b46f17c)
 - [Switching from Rstudio to Neovim](https://gist.github.com/lf-araujo/4b9b69e6920f7efedfa28121ef013520)
-- [Xorg.log](https://gist.github.com/lf-araujo/1106640c7a66dee16fe61965bf5ccd05)
 - [hdmi.sh](https://gist.github.com/lf-araujo/1879c0ffbf080ce18bc9465b0c7b957c)
 <!-- GIST-LIST:END -->
 
