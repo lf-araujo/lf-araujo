@@ -1,11 +1,11 @@
 # Latest Gists
 
 <!-- GIST-LIST:START -->
-- [DZ.csv](https://gist.github.com/lf-araujo/1bea4927813e09d9ec0ce0568935384e)
+- [Datasets for testing mr-doc2.](https://gist.github.com/lf-araujo/1bea4927813e09d9ec0ce0568935384e)
 - [R IDE for R statistics, data analysis and a bit of Nim](https://gist.github.com/lf-araujo/9b3e239757d6f48a564d75818b46f17c)
-- [Este é um init.vim para neovim que funciona na versão de centos do cidacs](https://gist.github.com/lf-araujo/5e60c2fd6a3f3fb077176451d3af74fe)
 - [Switching from Rstudio to Neovim](https://gist.github.com/lf-araujo/4b9b69e6920f7efedfa28121ef013520)
-- [finances.csv](https://gist.github.com/lf-araujo/5da7266c44b3824b824d578411dee73c)
+- [Xorg.log](https://gist.github.com/lf-araujo/1106640c7a66dee16fe61965bf5ccd05)
+- [hdmi.sh](https://gist.github.com/lf-araujo/1879c0ffbf080ce18bc9465b0c7b957c)
 <!-- GIST-LIST:END -->
 
 
