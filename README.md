@@ -1,11 +1,11 @@
 # Latest Gists
 
 <!-- GIST-LIST:START -->
+- [Wrap no more](https://gist.github.com/lf-araujo/93c3b4959b7a51f2540d617cdc09e682)
 - [Lunarvim settings for R and Nim](https://gist.github.com/lf-araujo/4656c89dcd14f04dced76deb41f145fd)
 - [Mx.wrap&lpar;&rpar;: Using R-base pipes to create OpenMx models](https://gist.github.com/lf-araujo/de58c9a969d7b1db66ff8453afc4b7fc)
 - [Datasets for testing mr-doc2.](https://gist.github.com/lf-araujo/1bea4927813e09d9ec0ce0568935384e)
 - [R IDE for R statistics, data analysis and a bit of Nim](https://gist.github.com/lf-araujo/9b3e239757d6f48a564d75818b46f17c)
-- [Switching from Rstudio to Neovim](https://gist.github.com/lf-araujo/4b9b69e6920f7efedfa28121ef013520)
 <!-- GIST-LIST:END -->
 
 
