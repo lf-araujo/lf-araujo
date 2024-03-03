@@ -1,11 +1,11 @@
 # Latest Gists
 
 <!-- GIST-LIST:START -->
+- [Report theme for emacs export](https://gist.github.com/lf-araujo/d2d3396baac95bf991a435046e097d02)
 - [Emacs theme](https://gist.github.com/lf-araujo/b007d759cffd344d3eec172287cd296f)
 - [Correcting non-positive definite matrices and misspecification related to starting values](https://gist.github.com/lf-araujo/ebb0484b10f75d28f98c8c722439f753)
 - [Wrap no more](https://gist.github.com/lf-araujo/93c3b4959b7a51f2540d617cdc09e682)
 - [Lunarvim settings for R and Nim](https://gist.github.com/lf-araujo/4656c89dcd14f04dced76deb41f145fd)
-- [Mx.wrap&lpar;&rpar;: Using R-base pipes to create OpenMx models](https://gist.github.com/lf-araujo/de58c9a969d7b1db66ff8453afc4b7fc)
 <!-- GIST-LIST:END -->
 
 
