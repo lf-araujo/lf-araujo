@@ -1,11 +1,11 @@
 # Latest Gists
 
 <!-- GIST-LIST:START -->
+- [Future map with OpenMx in simulations](https://gist.github.com/lf-araujo/c2ece84e94a98bcfac304a72765ddff4)
 - [Report theme for emacs export](https://gist.github.com/lf-araujo/d2d3396baac95bf991a435046e097d02)
 - [Emacs theme](https://gist.github.com/lf-araujo/b007d759cffd344d3eec172287cd296f)
 - [Correcting non-positive definite matrices and misspecification related to starting values](https://gist.github.com/lf-araujo/ebb0484b10f75d28f98c8c722439f753)
 - [Wrap no more](https://gist.github.com/lf-araujo/93c3b4959b7a51f2540d617cdc09e682)
-- [Lunarvim settings for R and Nim](https://gist.github.com/lf-araujo/4656c89dcd14f04dced76deb41f145fd)
 <!-- GIST-LIST:END -->
 
 
