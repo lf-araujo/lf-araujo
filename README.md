@@ -1,11 +1,11 @@
 # Latest Gists
 
 <!-- GIST-LIST:START -->
+- [Labwc config](https://gist.github.com/lf-araujo/4f5278cb975a2c32435acd369869fa8d)
 - [Gnome tracker search command line tool](https://gist.github.com/lf-araujo/1be8de2e72be0302ad49623f48ea0603)
 - [ml.nim](https://gist.github.com/lf-araujo/58d1f6712a52934654f7bef6d010fc29)
 - [Future map with OpenMx in simulations](https://gist.github.com/lf-araujo/c2ece84e94a98bcfac304a72765ddff4)
 - [Report theme for emacs export](https://gist.github.com/lf-araujo/d2d3396baac95bf991a435046e097d02)
-- [Emacs theme](https://gist.github.com/lf-araujo/b007d759cffd344d3eec172287cd296f)
 <!-- GIST-LIST:END -->
 
 
